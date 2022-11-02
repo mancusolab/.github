@@ -52,5 +52,7 @@ report supplied to the accused. In potentially harmful situations, such as
 ongoing harassment or threats to anyone's safety, we may take action without
 notice.
 
-This document was adapted from the
-`IndieWeb Code of Conduct <https://indieweb.org/code-of-conduct>`_.
+*This document was adapted from the [IndieWeb Code of Conduct][] and can also
+be found at <https://opensource.google/conduct/>.*
+
+[IndieWeb Code of Conduct]: https://indieweb.org/code-of-conduct
